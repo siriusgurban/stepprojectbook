@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+1 : Latvia
+2 : Malta
+3 : Japan
+4 : Finland
+5 : France
+6 : Bulgaria
+7 : Italy
+8 : Austria
+9 : Cyprus
+10 : Hungary
+11 : Estonia
+12 : Albania
+13 : Greece
+14 : China
+15 : Belgium
+16 : United Kingdom
+17 : Sweden
+18 : Germany
+19 : United States
+20 : Denmark
+=======
+1 : Norway
+2 : Switzerland
+3 : Australia
+4 : Ireland
+5 : Germany
+6 : Iceland
+7 : China
+8 : Sweden
+9 : Denmark
+10 : Canada
+11 : United States
+12 : United Kingdom
+13 : Finland
+14 : Italy
+15 : Belgium
+16 : Japan
+17 : Austria
+18 : France
+19 : Estonia
+20 : Cyprus
+>>>>>>> origin/master

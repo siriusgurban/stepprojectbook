@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+1 : Riga : Latvia
+2 : Valletta : Malta
+3 : Tokyo : Japan
+4 : Helsinki : Finland
+5 : Paris : France
+6 : Sofia : Bulgaria
+7 : Roma : Italy
+8 : Vienna : Austria
+9 : Nicosia : Cyprus
+10 : Budapest : Hungary
+11 : Tallinn : Estonia
+12 : Tirana : Albania
+13 : Athens : Greece
+14 : Beijing : China
+15 : Brussels : Belgium
+16 : London : United Kingdom
+17 : Stockholm : Sweden
+18 : Berlin : Germany
+19 : Washington : United States
+20 : Copenhagen : Denmark
+=======
+1 : Oslo : Norway
+2 : Bern : Switzerland
+3 : Canberra : Australia
+4 : Dublin : Ireland
+5 : Berlin : Germany
+6 : Reykjavik : Iceland
+7 : Beijing : China
+8 : Stockholm : Sweden
+9 : Copenhagen : Denmark
+10 : Ottawa : Canada
+11 : Washington : United States
+12 : London : United Kingdom
+13 : Helsinki : Finland
+14 : Roma : Italy
+15 : Brussels : Belgium
+16 : Tokyo : Japan
+17 : Vienna : Austria
+18 : Paris : France
+19 : Tallinn : Estonia
+20 : Nicosia : Cyprus
+>>>>>>> origin/master

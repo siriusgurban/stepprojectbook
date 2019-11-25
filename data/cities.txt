@@ -1,0 +1,20 @@
+1 : Riga : Latvia
+2 : Valletta : Malta
+3 : Tokyo : Japan
+4 : Helsinki : Finland
+5 : Paris : France
+6 : Sofia : Bulgaria
+7 : Roma : Italy
+8 : Vienna : Austria
+9 : Nicosia : Cyprus
+10 : Budapest : Hungary
+11 : Tallinn : Estonia
+12 : Tirana : Albania
+13 : Athens : Greece
+14 : Beijing : China
+15 : Brussels : Belgium
+16 : London : United Kingdom
+17 : Stockholm : Sweden
+18 : Berlin : Germany
+19 : Washington : United States
+20 : Copenhagen : Denmark
